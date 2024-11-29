@@ -1,0 +1,17 @@
+body{
+    background-color: #32CD32;
+}
+h1{
+    color: black;
+    font-size: 40px;
+    font-weight:bold;
+    text-align: center;
+}
+.form{
+    width: 30%;
+    margin-left: 33%;
+    border: 5px;
+    border-radius: 1%;
+    padding: 2%;
+    background-color: #FFFAFA;
+}
